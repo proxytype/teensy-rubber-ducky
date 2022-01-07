@@ -1,5 +1,5 @@
 # Teensy Rubber Ducky Payload Examples
-Create your own "Rubber Ducky" device based on Teensy board version, simulate keyboard usb device and inject keystrokes to the system as regular keyboard, you can write your own automation scripts based on system command lines.
+Create your own "Rubber Ducky" device based on Teensy board, simulate keyboard usb device and inject keystrokes to the system as regular keyboard, you can write your own automation scripts based on system command lines.
 
 ![alt text](https://raw.githubusercontent.com/proxytype/teensy-rubber-ducky/main/teensy32.jpg)
 
