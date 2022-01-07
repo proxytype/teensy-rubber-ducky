@@ -4,7 +4,7 @@ Create your own "Rubber Ducky" device based on Teensy board version 3.2, simulat
 ![alt text](https://raw.githubusercontent.com/proxytype/teensy-rubber-ducky/main/teensy32.jpg)
 
 ## Requirements:
-1. buy teensy 3.2 borad -> https://www.pjrc.com/teensy/teensyduino.html
+1. buy teensy 3.2 borad -> https://www.pjrc.com/store/teensy32.html
 2. download arduino ide -> https://www.arduino.cc/en/software
 3. download teensy sdk -> https://www.pjrc.com/teensy/teensyduino.html
 
