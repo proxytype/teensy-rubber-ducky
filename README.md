@@ -10,5 +10,5 @@ Create your own "Rubber Ducky" device based on Teensy board version 3.2, simulat
 
 Run sdk installation, it will be installed the board dependencies to the Arduino installed library.
 
-Change usb type to Keyboard.
+Change usb type to Keyboard. <br>
 ![alt text](https://raw.githubusercontent.com/proxytype/teensy-rubber-ducky/main/keyborad.jpg)
