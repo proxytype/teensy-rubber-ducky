@@ -3,7 +3,7 @@ Create your own "Rubber Ducky" device based on Teensy board version 3.0, by emul
 you can write your own automation scripts based on system command lines.
 
 Requirments:
-1. buy teensy 3.0 borad
+1. buy teensy 3.0 borad -> https://www.pjrc.com/teensy/teensyduino.html
 2. download arduino ide -> https://www.arduino.cc/en/software 
 3. download teensy sdk -> https://www.pjrc.com/teensy/teensyduino.html
 
