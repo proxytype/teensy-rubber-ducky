@@ -12,4 +12,8 @@ Run sdk installation, it will be installed the board dependencies to the Arduino
 
 Change usb type to Keyboard. <br> <br>
 ![alt text](https://raw.githubusercontent.com/proxytype/teensy-rubber-ducky/main/keyborad.jpg)
+<br> <br>
+Compile and Upload:
+<br> <br>
+![alt text](https://raw.githubusercontent.com/proxytype/teensy-rubber-ducky/main/rubber-ducky.gif)
 
